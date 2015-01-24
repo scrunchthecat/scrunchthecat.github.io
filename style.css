@@ -3,3 +3,10 @@
 h1 {
 color: orange;	
 }
+
+#cat {
+
+width: 800px;
+margin: auto;
+background-color: #FF0096;	
+}
